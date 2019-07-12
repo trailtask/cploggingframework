@@ -1,0 +1,4 @@
+framework module CPLogging {
+  header "CPLogging-Swift.h"
+  requires objc
+}
