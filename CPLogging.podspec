@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name          = "CPLogging"
-  s.version       = "1.0"
+  s.version       = "1.1"
   s.summary       = "Cross Plaform Logging - CPLogging"
   s.swift_version = '4.2'
 

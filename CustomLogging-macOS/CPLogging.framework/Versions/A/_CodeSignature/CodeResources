@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		Mb1W5hrcs6rvwlbVsEwc+010N8Y=
+		uTJIj2RDxbj0xMIogIXJkWOTl10=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kHZKlJozMyrwfg1YpL39Pwi211JOFps8Nx+JetW4KFE=
+			+giZ26X9MzNuVXInMlAVvC5ue4WopzLB+vvgmV3EDOE=
 			</data>
 		</dict>
 		<key>Headers/CustomLogging_macOS.h</key>
@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DDRE3SepZ9cY86s9Rv4vAzP2k/ODD0/Hoalj1d5LwPk=
+			7tDIMvCESigm4QqhEZbtir5Qcj6/e00SCws9QBmAyOg=
 			</data>
 		</dict>
 		<key>Modules/CPLogging.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rogNEQYEnBMB0nH3lueoWboY/8thsPKSuS7W+I1CG38=
+			on6vcLFcigl5rSVI3EhrPnpOi/T7HBUXwmjMjOXTfgQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -50,7 +50,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x0H6rreEpY3qzQFbcUfWSOLavKxh/5CvOtpTIM7tl/E=
+			giIje/v5RqrzlDzDxnNaR9w+NNIE/YZR4yKOAZcl7tQ=
 			</data>
 		</dict>
 	</dict>
