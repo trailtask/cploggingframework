@@ -6,20 +6,28 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		uTJIj2RDxbj0xMIogIXJkWOTl10=
+		yn2XGSl3Cvken4dfdLIYveQK9nU=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/CPLogging-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			BAMi3lTIH55TR+iB6/PDJiIoihI=
+			</data>
 			<key>hash2</key>
 			<data>
-			+giZ26X9MzNuVXInMlAVvC5ue4WopzLB+vvgmV3EDOE=
+			KwDr5Lz4tMfwTGpxEGyNrWzSH4cbNVDTtczo6uvrEls=
 			</data>
 		</dict>
 		<key>Headers/CustomLogging_macOS.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			zFW00hvGhfHQ2SSgeXf/PmOZ45o=
+			</data>
 			<key>hash2</key>
 			<data>
 			+9hcRMumxWpB4oU2qjG0py/PtSy2LBAO+fIrPT36Kis=
@@ -27,20 +35,32 @@
 		</dict>
 		<key>Modules/CPLogging.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			MvCfy22Tl84NuPwGtp9aZbHkIqw=
+			</data>
 			<key>hash2</key>
 			<data>
-			7tDIMvCESigm4QqhEZbtir5Qcj6/e00SCws9QBmAyOg=
+			tdm4h7WePjSxvN/bOlMm665CyAjdC6BxxDzHHPcFxRg=
 			</data>
 		</dict>
 		<key>Modules/CPLogging.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			owKmFmBLUHqZ70Hr/5Dz+pdW5bg=
+			</data>
 			<key>hash2</key>
 			<data>
-			on6vcLFcigl5rSVI3EhrPnpOi/T7HBUXwmjMjOXTfgQ=
+			j8Hy5rt4D1Ijo8b7X9Kmuzv+PM6mHhzAR6zcll4rvgM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VI52/wVaz87vKqDHxQnIsCTS+gw=
+			</data>
 			<key>hash2</key>
 			<data>
 			Qg7iTQjfcHxmRieG5gcujw8gqRxOdRM08vA9dje1Fx4=
@@ -48,9 +68,13 @@
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yn2XGSl3Cvken4dfdLIYveQK9nU=
+			</data>
 			<key>hash2</key>
 			<data>
-			giIje/v5RqrzlDzDxnNaR9w+NNIE/YZR4yKOAZcl7tQ=
+			BgdZWktodI6hntvgRElDPXLIYhEYPRd+s/p87C/+W50=
 			</data>
 		</dict>
 	</dict>
