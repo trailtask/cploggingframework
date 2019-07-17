@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		Nmt694HJZ6zWRGbk6ln2ZXoYllw=
+		woXrNw09dMjevcd5rVYBkJWafUg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,11 +15,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BAMi3lTIH55TR+iB6/PDJiIoihI=
+			dXaFPbzl+snjPznD7h40pbxmMIA=
 			</data>
 			<key>hash2</key>
 			<data>
-			KwDr5Lz4tMfwTGpxEGyNrWzSH4cbNVDTtczo6uvrEls=
+			JSY75VaEwpuN+7CxyCiLKSjBl74+hi4mYfcuknD7N7c=
 			</data>
 		</dict>
 		<key>Headers/CustomLogging_macOS.h</key>
@@ -48,11 +48,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			owKmFmBLUHqZ70Hr/5Dz+pdW5bg=
+			9PnK06+UJ2CPaifsECqTWY3yS8I=
 			</data>
 			<key>hash2</key>
 			<data>
-			j8Hy5rt4D1Ijo8b7X9Kmuzv+PM6mHhzAR6zcll4rvgM=
+			M1Ydtx63k0puJ6pDXtJ0cDRcNcfKKd6JA1M9fE+fQCQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -70,11 +70,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Nmt694HJZ6zWRGbk6ln2ZXoYllw=
+			woXrNw09dMjevcd5rVYBkJWafUg=
 			</data>
 			<key>hash2</key>
 			<data>
-			sdWFGoG1/4F3sP6TVB07f1WNDgcCbxhSYjv3ZNGIlVA=
+			KV6/Aa5KE5apVcbBZt89gXyuD0ue91Eb+CBfYiYXHCs=
 			</data>
 		</dict>
 	</dict>

@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name          = "CPLogging"
-  s.version       = "1.3"
+  s.version       = "1.4"
   s.summary       = "Cross Plaform Logging - CPLogging"
   s.swift_version = '5.0'
 
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
 
   s.platforms = {:ios => '11.0', :osx => '10.10'}
 
-  s.source = { :git => 'https://github.com/trailtask/cploggingframework.git', :tag => '1.3' }
+  s.source = { :git => 'https://github.com/trailtask/cploggingframework.git', :tag => '1.4' }
 
   s.ios.vendored_frameworks = 'CustomLogging-iOS/CPLogging.framework'
   s.osx.vendored_frameworks = 'CustomLogging-macOS/CPLogging.framework'
