@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		woXrNw09dMjevcd5rVYBkJWafUg=
+		djSxlH3o4cb/MNd4e4kBtwa9D2c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,11 +15,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dXaFPbzl+snjPznD7h40pbxmMIA=
+			7H2/uZOZRWOUF7j+8FUFi4cRuNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			JSY75VaEwpuN+7CxyCiLKSjBl74+hi4mYfcuknD7N7c=
+			LECDVjEGY77XAnyh5CV9PStsGhxJ5ib43+e2NdoZ3Ac=
 			</data>
 		</dict>
 		<key>Headers/CustomLogging_macOS.h</key>
@@ -33,26 +33,48 @@
 			+9hcRMumxWpB4oU2qjG0py/PtSy2LBAO+fIrPT36Kis=
 			</data>
 		</dict>
+		<key>Modules/CPLogging.swiftmodule/x86_64-apple-macos.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eM1a6lCeuZ43TWwa6104q89FJNM=
+			</data>
+			<key>hash2</key>
+			<data>
+			TNRTxJ8ZdYHcZOp+pj7iKSKxdMznzpLYxlxGxCWGzO4=
+			</data>
+		</dict>
+		<key>Modules/CPLogging.swiftmodule/x86_64-apple-macos.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v+Z0Idv7HyDblMNiqMsnqJGr6eE=
+			</data>
+			<key>hash2</key>
+			<data>
+			qc+64jqaC2vrerlJYS61GOaAf41VHsUX3Vx1C/P2wwQ=
+			</data>
+		</dict>
 		<key>Modules/CPLogging.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MvCfy22Tl84NuPwGtp9aZbHkIqw=
+			eM1a6lCeuZ43TWwa6104q89FJNM=
 			</data>
 			<key>hash2</key>
 			<data>
-			tdm4h7WePjSxvN/bOlMm665CyAjdC6BxxDzHHPcFxRg=
+			TNRTxJ8ZdYHcZOp+pj7iKSKxdMznzpLYxlxGxCWGzO4=
 			</data>
 		</dict>
 		<key>Modules/CPLogging.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9PnK06+UJ2CPaifsECqTWY3yS8I=
+			v+Z0Idv7HyDblMNiqMsnqJGr6eE=
 			</data>
 			<key>hash2</key>
 			<data>
-			M1Ydtx63k0puJ6pDXtJ0cDRcNcfKKd6JA1M9fE+fQCQ=
+			qc+64jqaC2vrerlJYS61GOaAf41VHsUX3Vx1C/P2wwQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -70,11 +92,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			woXrNw09dMjevcd5rVYBkJWafUg=
+			djSxlH3o4cb/MNd4e4kBtwa9D2c=
 			</data>
 			<key>hash2</key>
 			<data>
-			KV6/Aa5KE5apVcbBZt89gXyuD0ue91Eb+CBfYiYXHCs=
+			CkKHNw6w0N/qej7NpozDc+kow+7a7hihr9vMWC7XSCI=
 			</data>
 		</dict>
 	</dict>
